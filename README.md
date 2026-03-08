@@ -1,1 +1,1 @@
-just a practive website from a tutorial
+just a practice website from a tutorial
